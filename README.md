@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bengali AI Math Olympiad - DL Sprint 3.0</title>
+
 </head>
 <body>
 
@@ -60,7 +60,7 @@ Our team secured the **12th position** among:
 </ol>
 
 <h2>Competition Link</h2>
-<p> <a href="[LICENSE](https://www.kaggle.com/competitions/dlsprint3)">Click here </a>for more details.</p>
+[Click here]([URL](https://www.kaggle.com/competitions/dlsprint3))
 
 </body>
 </html>
